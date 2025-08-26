@@ -130,15 +130,13 @@ while continuously learning and building **impactful solutions**.
 
 ## 🤝 Let’s Build & Connect  
 
-🚀 Open to collaborating on **Laravel/Vue**, **MERN**, and **Flutter** projects.  
+🚀 Open to collaborating on **Laravel/Vue**, **Nodejs**, and **Flutter** projects.  
 💬 Always happy to chat — DM me on X/Twitter [@tkparial1](https://twitter.com/tkparial1).  
 🛠️ Found a bug or feature idea? Feel free to **open an issue** or start a **discussion** in my repos.  
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kanti-parial/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tkparial1)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myemail+fromgithub@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kanti-parial/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tkparial1)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkparial1+fromgithub@gmail.com)  
 
 </div>
 
