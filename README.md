@@ -3,6 +3,10 @@
 
 # Tushar Kanti
 
+ 
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Full+Stack+Developer;DevOps+Enthusiast;AI%2FML+Explorer;Cloud+Solutions+Architect)
+   
+
 Software Engineer • Laravel • Vue.js • JavaScript • MERN • Flutter
 
 [![GitHub followers](https://img.shields.io/github/followers/tusharthe?style=for-the-badge)](https://github.com/tusharthe)
