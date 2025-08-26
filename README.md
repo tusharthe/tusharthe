@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a deep
 
 🔹 **What I do:**  I focus on Laravel backends, Vue.js frontends, real‑time systems, and performant databases. I care deeply about clean architecture, readable code, and delivering delightful user experiences that scale. I craft efficient solutions through code, explore the fascinating world of artificial intelligence, and architect scalable cloud infrastructures.
 
-🔹 **Freelance Work:** I help small businesses optimize their cloud presence, specializing in **AWS EC2 configurations** and cloud migrations.
+🔹 **Freelance Work:** Completed a postgraduate program in DevOps from Purdue University. As a freelancer, I have helped small businesses with AWS EC2 configuration and cloud setup.
 
 🔹 **Mission:** To leverage technology in solving real-world problems and continuously learn cutting-edge technologies.
 
@@ -89,6 +89,16 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a deep
 
 </div>
 -->
+
+---
+
+## 📚 Currently Learning  
+
+- 🐍 Python for **Data Science & AI/ML**  
+- 📊 Deep dive into **Machine Learning libraries & frameworks**  
+
+---
+
 ---
 
 ## 🚀 Featured projects
