@@ -25,41 +25,72 @@ Software Engineer • Laravel • Vue.js • JavaScript • Nodejs • Flutter �
 - **I value:** Clean architecture, readable code, and delightful UX
 -->
 
-## 🚀 About Me
+## 🚀 About Me  
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a deep love for technology and innovation. My journey spans across multiple domains including software development specializing in building product‑ready web and mobile applications. data science, AI/ML, DevOps, and cloud computing.
-
-🔹 **What I do:**  I focus on Laravel backends, Vue.js frontends, real‑time systems, and performant databases. I care deeply about clean architecture, readable code, and delivering delightful user experiences that scale. I craft efficient solutions through code, explore the fascinating world of artificial intelligence, and architect scalable cloud infrastructures.
-
-🔹 **Freelance Work:** Completed a postgraduate program in DevOps from Purdue University. As a freelancer, I have helped small businesses with AWS EC2 configuration and cloud setup.
-
-🔹 **Mission:** To leverage technology in solving real-world problems and continuously learn cutting-edge technologies.
+Welcome to my GitHub profile! I’m a **Software Engineer** with a strong passion for **technology, coding, and innovation**.  
+My journey spans across **Web & Mobile Development, Data Science, AI/ML, DevOps, and Cloud Computing**.  
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🛠️ What I Do  
+- 🖥️ **Web Development** – Laravel (Backend) & Vue.js (Frontend)  
+- ⚡ **Real-time Systems** – Scalable & performant architectures  
+- 🗄️ **Databases** – High-performance & optimized queries  
+- 🤖 **Artificial Intelligence** – Exploring AI/ML applications  
+- ☁️ **Cloud Infrastructure** – Architecting scalable cloud solutions  
 
-- **Languages:** JavaScript, Python, PHP, TypeScript, Dart, SQL
-- **Frontend:** Vue.js, jQuery, Framework7
-- **Backend:** Laravel, Node.js, Express, FastAPi
-- **Mobile & Hybrid:** Flutter, Cordova
-- **Data:** MySQL, MongoDB
-- **Tooling:** Webpack, Vite, Git, REST, WebSockets
+---
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Cordova-E8E8E8?logo=apachecordova&logoColor=000" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000" />  
-  <img src="https://img.shields.io/badge/DevOps-2496ED?logo=docker&logoColor=fff" alt="DevOps"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff" alt="AWS"/>
-</p>
+### 💼 Freelance Work  
+As a freelancer, I’ve supported **small businesses** with:  
+- ☁️ AWS **EC2 Configuration & Cloud Setup**  
+- 🔧 Tailored **software solutions** for business needs  
+
+---
+
+### 📜 Certificates & Programs  
+- 🎓 **Postgraduate Program in DevOps** – *Purdue University*  
+- ☁️ **AWS Freelance Experience** – *Cloud Deployment & EC2 Setup*  
+
+---
+
+### 🎯 Mission  
+To leverage technology in solving **real-world challenges**,  
+while continuously learning and building **impactful solutions**.  
+
+---
+
+## 🔧 Skills & Tools  
+
+### 💻 Programming Languages  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />  
+
+### 🌐 Web & Mobile Development  
+<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff" />  
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />  
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" />  
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" />  
+<img src="https://img.shields.io/badge/Cordova-E8E8E8?logo=apachecordova&logoColor=000" />  
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000" />  
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />  
+
+### ⚙️ DevOps & Cloud  
+<img src="https://img.shields.io/badge/DevOps-2496ED?logo=docker&logoColor=fff" alt="DevOps"/>  
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff" alt="AWS"/>  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+
+### 🔗 Version Control & Collaboration  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+
+---
 
 
 <!--
@@ -105,9 +136,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a deep
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [sparkler_button](https://github.com/tusharthe/sparkler_button) | A UI button widget with sparkly micro-interactions | JS |
-| [e-library](https://github.com/tusharthe/e-library) | Online bookstore prototype with core shopping flows | JavaScript |
-| [RealtimeChatApp](https://github.com/tusharthe/RealtimeChatApp) | Real‑time chat using Laravel notifications & broadcasting | Laravel, JS |
+| [sparkler_button](https://github.com/tusharthe/sparkler_button) | A UI button widget with sparkly micro-interactions | Dart, Flutter |
+| [e-library](https://github.com/tusharthe/e-library) | Online bookstore prototype with core shopping flows | Laravel |
+| [RealtimeChatApp](https://github.com/tusharthe/RealtimeChatApp) | Real‑time chat using Laravel notifications & broadcasting | Laravel, VueJs |
 | [Codeignator-HMVC-Blade](https://github.com/tusharthe/Codeignator-HMVC-Blade) | HMVC structure + Blade templating for CodeIgniter | PHP |
 
 > I also experiment with forks like BladeOne and webpack to learn internals and contribute back.
