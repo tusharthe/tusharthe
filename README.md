@@ -7,7 +7,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Full+Stack+Developer;DevOps+Enthusiast;AI%2FML+Explorer;Cloud+Solutions+Architect)
    
 
-Software Engineer • Laravel • Vue.js • JavaScript • MERN • Flutter
+Software Engineer • Laravel • Vue.js • JavaScript • Nodejs • Flutter • Python • MERN • Passionate about **coding, data science, AI/ML, DevOps & Cloud**
 
 [![GitHub followers](https://img.shields.io/github/followers/tusharthe?style=for-the-badge)](https://github.com/tusharthe)
 [![Profile views](https://komarev.com/ghpvc/?username=tusharthe&style=for-the-badge&color=0e75b6)](#)
