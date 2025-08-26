@@ -128,24 +128,18 @@ while continuously learning and building **impactful solutions**.
 
 ---
 
-## 🤝 Let’s build
+## 🤝 Let’s Build & Connect  
 
-- **Collab:** Open to teaming up on Laravel/Vue, MERN, and Flutter projects
-- **Chat:** DM on X/Twitter [@tkparial1](https://twitter.com/tkparial1)
-- **Issues:** Feel free to open an issue on any repo to discuss features/bugs
-
----
-
----
-
-## 🌐 Connect With Me
+🚀 Open to collaborating on **Laravel/Vue**, **MERN**, and **Flutter** projects.  
+💬 Always happy to chat — DM me on X/Twitter [@tkparial1](https://twitter.com/tkparial1).  
+🛠️ Found a bug or feature idea? Feel free to **open an issue** or start a **discussion** in my repos.  
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kanti-parial/)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tkparial1)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkparial1+fromgithub@gmail.com)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kanti-parial/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tkparial1)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myemail+fromgithub@gmail.com)  
+
 </div>
 
 ---
