@@ -1,7 +1,7 @@
 <!-- Profile: tusharthe -->
 <div align="center">
 
-# Tushar Kanti
+# Hi there! 👋 I'm Tushar
 
  
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Full+Stack+Developer;DevOps+Enthusiast;AI%2FML+Explorer;Cloud+Solutions+Architect)
