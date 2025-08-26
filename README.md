@@ -112,7 +112,8 @@ while continuously learning and building **impactful solutions**.
 | [RealtimeChatApp](https://github.com/tusharthe/RealtimeChatApp) | Real‑time chat using Laravel notifications & broadcasting | Laravel, VueJs |
 | [Codeignator-HMVC-Blade](https://github.com/tusharthe/Codeignator-HMVC-Blade) | HMVC structure + Blade templating for CodeIgniter | PHP |
 
-> I also experiment with forks like BladeOne and webpack to learn internals and contribute back.
+<!--
+>  Some private -->
 
 ---
 
