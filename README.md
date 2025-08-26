@@ -73,10 +73,13 @@ while continuously learning and building **impactful solutions**.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />  
 
 ### ⚙️ DevOps & Cloud  
-<img src="https://img.shields.io/badge/DevOps-2496ED?logo=docker&logoColor=fff" alt="DevOps"/>  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff" alt="AWS"/>  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://img.shields.io/badge/DevOps-2496ED?logo=docker&logoColor=fff" alt="DevOps"/>  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff" alt="AWS"/>  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 🔗 Version Control & Collaboration  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 📊 Data Science & AI/ML
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ---
 
