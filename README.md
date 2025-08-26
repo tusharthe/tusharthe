@@ -80,6 +80,16 @@ Software Engineer • Laravel • Vue.js • JavaScript • MERN • Flutter
 - **Chat:** DM on X/Twitter [@tkparial1](https://twitter.com/tkparial1)
 - **Issues:** Feel free to open an issue on any repo to discuss features/bugs
 
-<!-- Optional personal site link (uncomment if you want it visible)
-- **Website:** http://tkparial1.tk
--->
+---
+
+<div align="center">
+  
+  ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=tusharthe&color=brightgreen&style=flat-square)
+  
+  ⭐️ **Thanks for visiting my profile!** ⭐️
+  
+</div>
+
+---
