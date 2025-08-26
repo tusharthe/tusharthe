@@ -16,13 +16,24 @@ Software Engineer • Laravel • Vue.js • JavaScript • MERN • Flutter
 </div>
 
 ---
-
+<!--
 ## ✨ About
 
 - **Role:** Software Engineer focused on product-ready web and mobile experiences  
 - **Strengths:** Laravel backends, Vue.js frontends, real-time features, performant databases  
 - **Also build with:** MERN stack, Flutter, Cordova, Framework7  
 - **I value:** Clean architecture, readable code, and delightful UX
+-->
+
+## 🚀 About Me
+
+Welcome to my GitHub profile! I'm a passionate **Computer Science Engineer** with a deep love for technology and innovation. My journey spans across multiple domains including software development, data science, AI/ML, DevOps, and cloud computing.
+
+🔹 **What I do:** I craft efficient solutions through code, explore the fascinating world of artificial intelligence, and architect scalable cloud infrastructures.
+
+🔹 **Freelance Work:** I help small businesses optimize their cloud presence, specializing in **AWS EC2 configurations** and cloud migrations.
+
+🔹 **Mission:** To leverage technology in solving real-world problems and continuously learn cutting-edge technologies.
 
 ---
 
