@@ -123,6 +123,20 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a deep
 
 ---
 
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kanti-parial/)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tkparial1)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkparial1+fromgithub@gmail.com)
+  
+</div>
+
+---
+
 <div align="center">
   
   ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
