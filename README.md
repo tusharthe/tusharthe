@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a deep
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ Skills & Technologies
 
 - **Languages:** JavaScript, Python, PHP, TypeScript, Dart, SQL
 - **Frontend:** Vue.js, jQuery, Framework7
@@ -56,29 +56,30 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a deep
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
   <img src="https://img.shields.io/badge/Cordova-E8E8E8?logo=apachecordova&logoColor=000" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000" />  
+  <img src="https://img.shields.io/badge/DevOps-2496ED?logo=docker&logoColor=fff" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff" alt="AWS"/>
 </p>
 
-## 🛠️ Skills & Technologies
 
+<!--
 <div align="center">
 
 ### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Javascript](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+ 
 
 ### 🚀 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### 📊 Data Science & AI/ML
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -87,7 +88,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a deep
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 </div>
-
+-->
 ---
 
 ## 🚀 Featured projects
