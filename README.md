@@ -62,27 +62,7 @@ while continuously learning and building **impactful solutions**.
 
 ## 🔧 Skills & Tools  
 
-### 💻 Programming Languages  
-![PHP](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />  
-
-### 🌐 Web & Mobile Development  
-<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff" />  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" />
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" />  <img src="https://img.shields.io/badge/Cordova-E8E8E8?logo=apachecordova&logoColor=000" />  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000" />  
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />  
-
-### ⚙️ DevOps & Cloud  
-<img src="https://img.shields.io/badge/DevOps-2496ED?logo=docker&logoColor=fff" alt="DevOps"/>  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff" alt="AWS"/>  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### 🔗 Version Control & Collaboration  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 📊 Data Science & AI/ML
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
----
-
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" /> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" /> <img src="https://img.shields.io/badge/Cordova-E8E8E8?logo=apachecordova&logoColor=000" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000" /> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" /> <img src="https://img.shields.io/badge/DevOps-2496ED?logo=docker&logoColor=fff" /> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff" alt="AWS"/> ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
 
 <!--
 <div align="center">
@@ -118,8 +98,6 @@ while continuously learning and building **impactful solutions**.
 
 - 🐍 Python for **Data Science & AI/ML**  
 - 📊 Deep dive into **Machine Learning libraries & frameworks**  
-
----
 
 ---
 
