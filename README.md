@@ -111,6 +111,7 @@ while continuously learning and building **impactful solutions**.
 | [e-library](https://github.com/tusharthe/e-library) | Online bookstore prototype with core shopping flows | PHP, JS |
 | [RealtimeChatApp](https://github.com/tusharthe/RealtimeChatApp) | Real‑time chat using Laravel notifications & broadcasting | Laravel, VueJs |
 | [Codeignator-HMVC-Blade](https://github.com/tusharthe/Codeignator-HMVC-Blade) | HMVC structure + Blade templating for CodeIgniter | PHP |
+| [online-users-laravel](https://github.com/tusharthe/online-users-laravel) | Show the users online in your Laravel application | Laravel |
 
 <!--
 >  Some private -->
