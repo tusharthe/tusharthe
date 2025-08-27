@@ -108,7 +108,7 @@ while continuously learning and building **impactful solutions**.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [sparkler_button](https://github.com/tusharthe/sparkler_button) | A UI button widget with sparkly micro-interactions | Dart, Flutter |
-| [e-library](https://github.com/tusharthe/e-library) | Online bookstore prototype with core shopping flows | Laravel |
+| [e-library](https://github.com/tusharthe/e-library) | Online bookstore prototype with core shopping flows | PHP, JS |
 | [RealtimeChatApp](https://github.com/tusharthe/RealtimeChatApp) | Real‑time chat using Laravel notifications & broadcasting | Laravel, VueJs |
 | [Codeignator-HMVC-Blade](https://github.com/tusharthe/Codeignator-HMVC-Blade) | HMVC structure + Blade templating for CodeIgniter | PHP |
 
